@@ -142,13 +142,13 @@ p {
   height: 0.25rem;
   margin-bottom: 1.25rem;
   background: var(--clr-primary-5);
-  margin-left: 295px;
+  margin-left: 285px;
   margin-right: auto;
   margin-top: -3rem;
 }
 .title {
   margin-bottom: 4rem;
-  margin-left: 290px;
+  margin-left: 280px;
   /* text-align: center; */
 }
 
