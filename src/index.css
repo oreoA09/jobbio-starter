@@ -144,6 +144,7 @@ p {
   background: var(--clr-primary-5);
   margin-left: auto;
   margin-right: auto;
+  margin-top: -3rem;
 }
 .title {
   margin-bottom: 4rem;
