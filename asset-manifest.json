@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jobbio-starter/static/css/main.cfffb67d.css",
+    "main.js": "/jobbio-starter/static/js/main.e28791be.js",
+    "index.html": "/jobbio-starter/index.html",
+    "main.cfffb67d.css.map": "/jobbio-starter/static/css/main.cfffb67d.css.map",
+    "main.e28791be.js.map": "/jobbio-starter/static/js/main.e28791be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfffb67d.css",
+    "static/js/main.e28791be.js"
+  ]
+}
